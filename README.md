@@ -11,7 +11,7 @@
 
 <h4>Funções há implementas</h4>
 <ul>
-	<li>Criação da palheta de cores</li>
+	<li>Criação da palheta de edição</li>
 	<li>Salvar Imagem</li>
 	<li>Editar Imagem</li>	
 </ul>

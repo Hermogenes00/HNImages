@@ -4,7 +4,7 @@
 
 <h4>Funções já implementadas</h4>
 <ul>
-	<li>Localição de aquivos e pastas</li>
+	<li>Localição de aquivo único ou vários arquivos em um diretório</li>
 	<li>Vizualizações de imagens</li>
 	<li>Redimensionamento das imagens</li>
 </ul>
